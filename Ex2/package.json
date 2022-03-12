@@ -1,0 +1,16 @@
+{
+  "name": "ex2",
+  "version": "1.0.0",
+  "description": "Challenge Two - Web servers\r Write a simple Server in NodeJS using the Express Framework. The server should respond to\r two routes \"/foo\" and \"/bar\". \"foo\" should write the response \"Hello\" and \"bar\" should write the\r String \"World\" to the response in JSON format, serializing the objects { response: “Hello”\r } or { response: “World” } respectively. Make sure the response is exactly as defined\r here. The important point in this exercise is to parametrize the server at startup depending on\r two environment variables \"PORT\" and \"BASE_URL\". \"PORT\" indicates on which port the\r express server will listen, and \"BASE_URL\" defines which will be the base path inserted before\r the two above routes \"foo\" and \"bar\". For example the shell command\r export PORT=\"3000\"\r export BASE_URL=\"/alien_abduction\"\r npm run express_challenge_two.js\r Should start a server that responds to\r localhost:3000/alien_abduction/foo\r with ‘{“response”: “Hello”}’, and to\r localhost:3000/alien_abduction/bar\r with ‘{“response”: “World”}’.\r Consider that the default values for the above arguments should be\r PORT=3333 and BASE_URL=\"\" (empty string)\r Your solution should include two Javascript files. The first \"index.js\" should create and start the\r Express server, the second \"routes.js\" shall use an Express Router (express.Router) in which\r the routes 'foo' and 'bar' are defined.\r You will get extra points, if you deliver a Dockerfile to create an appropriate image for this\r express application. The Dockerfile must set the above environment variables to control PORT\r and BASE_URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
