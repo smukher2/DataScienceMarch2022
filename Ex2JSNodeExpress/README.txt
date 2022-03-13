@@ -33,7 +33,7 @@ sudo npm install npm -g
 
 4) Manual Step: Type on terminal the following commands
 cd ~
-cd ./Desktop/DataScienceMarch2022/Ex2
+cd ./Desktop/DataScienceMarch2022/Ex2JSNodeExpress
 node index.js
 #Alternatively, to get server to auto-restart when changes are made to files
 nodemon index.js
@@ -47,7 +47,7 @@ Requests                                      Response
 
 5) Manual Step: For custom url and port, type it in Terminal and then start server
 cd ~
-cd ./Desktop/DataScienceMarch2022/Ex2
+cd ./Desktop/DataScienceMarch2022/Ex2JSNodeExpress
 export PORT=3000
 export BASE_URL="/alien_abduction"
 node index.js
@@ -70,8 +70,8 @@ express framework for app specific node.js functions and nodemon to reload serve
 after changes are made to files without having to restart server.
 Type in Linux/Ubuntu Terminal
 cd ~
-mkdir ./Desktop/DataScienceMarch2022/Ex2
-cd ./Desktop/DataScienceMarch2022/Ex2
+mkdir ./Desktop/DataScienceMarch2022/Ex2JSNodeExpress
+cd ./Desktop/DataScienceMarch2022/Ex2JSNodeExpress
 npm init -y
 npm install -g nodemon
 npm install express
