@@ -66,8 +66,8 @@ Requests                                      Response
 Bluefish, VS code or other.
 
 7) Manual Step: 'init npm' was used to turn current folder into npm js project, install
-express framework for app specific node.js functions and nodemon to reload server
-after changes are made to files without having to restart server.
+express framework for app specific node.js functions and nodemon to reload server automatically
+after changes are made to files without having to restart server manually.
 Type in Linux/Ubuntu Terminal
 cd ~
 mkdir ./Desktop/DataScienceMarch2022/Ex2JSNodeExpress
