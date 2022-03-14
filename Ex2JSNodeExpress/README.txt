@@ -4,8 +4,8 @@ Topic: NodeJS and Express framework
 
 ##########################Background###########################
 
-This is a simple app created on a local server created with NodeJS and
-Express framework. To user 'get' requests (i.e. typing url on browser)
+This is a small app created on a local server created with NodeJS and
+Express framework. To use 'get' requests (i.e. typing url on browser)
 this app sends a response in form of JSON object (key:value pairs instead of simple string).
 The port and url can be modified by user from commandline.
 
