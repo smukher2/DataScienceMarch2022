@@ -1,4 +1,6 @@
+/*More styles testing*/
 /*head and body styles*/
+
 html, body {
   background-color: #DBF0D5;
   box-sizing: border-box;
@@ -48,16 +50,7 @@ html, body {
   font-family: "Open Sans", sans-serif;
   font-size: 20px;
   font-weight: 300;
-  height: 224px;
-  line-height: 32px;
-  margin-block-end: 50px;
-  margin-block-start: 20px;
-  margin-bottom: 50px;
-  margin-inline-end: 0px;
-  margin-inline-start: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 20px;
+  /*height: 224px;*/
   overflow-wrap: break-word;
   pointer-events: auto;
   position: relative;
@@ -65,11 +58,26 @@ html, body {
   text-size-adjust: 100%;
 }
 
+.flex1LC {
+  width: 57.85%;
+  margin-right: 1.65%;
+}
+
+.flex1RC {
+  padding: 50px 40px;
+  width: 40.5%;
+}
+
+.imageC {
+  max-width: 100%;
+  height: auto;
+}
+
 /*header and footer styles*/
 .footerC, .headerC {
   background-color: #2A521D;
   /*background-image: none;*/
-  background-image: url("trees-pexels-pixabay-53435.jpg");
+  background-image: url("tree4-pexels-pixabay-53435.jpg");
   background-size:contain;
   background-repeat:no-repeat;
   background-position: center;
@@ -122,25 +130,4 @@ html, body {
   text-size-adjust: 100%;
 }
 
-
-/*More styles testing*/
-/*
-.imageC
-
-.div_containerC {
-  box-sizing: border-box;
-  color: rgb(17, 17, 17);
-  display: block;
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  line-height: 25.6px;
-  margin-bottom: 60px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 60px;
-  padding-top: 0px;
-  pointer-events: auto;
-  position: relative;
-  text-size-adjust: 100%;
-}
-*/
+/*End. Thank you.*/
