@@ -84,18 +84,18 @@ with text editor, here Atom to write codes for responses to send to different re
 here /foo and /bar as stated under 'Usage and Results' section above.
 
 ########################## Acknowledgment ###########################
-1) NodeJS and Express lesson from Learn JavaScript Full-Stack from Scratch
-Section 3. Server Basics by Brad Schiff
+1) NodeJS and Express lesson from Learn JavaScript Full-Stack from Scratch,
+especially section 3. Server Basics by Brad Schiff
 https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/
-2) NodeJS and Express lesson from The Web Developer Bootcamp 2022
-Section 33. Creating Servers With Express by Colt Steele
+2) NodeJS and Express lesson from The Web Developer Bootcamp 2022,
+especially section 33. Creating Servers With Express by Colt Steele
 https://www.udemy.com/course/the-web-developer-bootcamp/
-3) NodeJS and Express lesson from The Advanced Web Developer Bootcamp (last update 2018)
-Section 13. Creating JSON API's With Node and Mongo by
-Colt Steele, Elie Schoppik, Tim Garcia, Matt Lane (last update 2018)
+3) NodeJS and Express lesson from The Advanced Web Developer Bootcamp,
+especially section 13. Creating JSON API's With Node and Mongo by
+Colt Steele, Elie Schoppik, Tim Garcia, Matt Lane
 https://www.udemy.com/course/the-advanced-web-developer-bootcamp/
-4) NodeJS and Express lesson NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
-Section 5. Working with Express.js by Maximilian Schwarzmüller | Academind
+4) NodeJS and Express lesson NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno),
+especially section 5. Working with Express.js by Maximilian Schwarzmüller | Academind
 https://www.udemy.com/course/nodejs-the-complete-guide/
 5) Node.js Basics by Maximilian Schwarzmüller | Academind
 https://youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR

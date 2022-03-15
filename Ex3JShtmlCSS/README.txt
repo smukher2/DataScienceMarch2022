@@ -49,16 +49,17 @@ found in sites such as https://www.w3schools.com/html/html_symbols.asp, https://
 http://www.applytools.com/html-symbols.html and https://sites.psu.edu/symbolcodes/codehtml/.
 Find more by searching on internet with phrases such as, Search: 'html symbol' and 'html symbols codes'.
 
-9) Manual Step: Resources to research css styles, html templates and js codes can be found by searching
+9) Manual Step: Resources to research css styles, html codes/themes/templates and js codes can be found by searching
 on internet with phrases such as, Search: 'website templates' and Search: 'website templates responsive'.
 Download website themes from above to view offline using site download button or using browser do
-File > Save As > Complete Webpage and open on text editor such as Atom. To view website themes
-online, on browser click 'Developer Tools' > 'Elements', 'Styles', 'Network' for viewing (any website on
-internet can be infact viewed in this manner). WordPress Themes can be viewed from WordPress.com
-or server provider, on the WordPress.org content management system (CMS) and under cPanel > Themes.
+File > Save As > Complete Webpage and open on text editor such as Atom. To view website css styles, html codes/themes/templates
+online, on browser click 'Developer Tools' > 'Elements', 'Styles', 'Computed', 'Network' for viewing (any website on
+internet can infact be viewed in this manner). WordPress Themes can be viewed from WordPress.com
+or server provider, on the WordPress.org content management system (CMS) and under cPanel > Themes online,
+while for offline viewing zip/compress the particular theme folder and download from cPanel.
 Pay attention to and respect any copyright restrictions on these websites about usage.
-The websites, https://developer.mozilla.org and https://stackoverflow.com/ have the
-most comprehensive information about html, css, js and more.
+The websites, https://developer.mozilla.org and https://stackoverflow.com/ have most comprehensive information
+about html, css, js and more.
 
 ########################## Acknowledgment ###########################
 1) Introductory To JavaScript - Learn The Basics of JavaScript by Robin Haney
