@@ -38,8 +38,10 @@ node index.js
 #Alternatively, to get server to auto-restart when changes are made to files
 nodemon index.js
 
-#Open any web browser such as Firefox, Safari, Brave, Edge,
-Chrome/Chromium or other, and type default url as follows:
+#Open any web browser such as Firefox https://www.mozilla.org/en-US/firefox/new/,
+Safari https://www.apple.com/safari/, Brave https://brave.com/,
+Opera https://www.opera.com/, Edge https://www.microsoft.com/edge,
+Chrome/Chromium https://www.chromium.org/Home/ or other, and type default url as follows:
 Requests                                      Response
   localhost:3333                              "Welcome to homepage"
   localhost:3333/foo                          {“response”: “Hello”}
@@ -54,8 +56,10 @@ node index.js
 #Alternatively, to get server to auto-restart when changes are made to files
 nodemon index.js
 
-#Open any web browser such as Firefox, Safari, Brave, Edge,
-Chrome/Chromium or other, and type default url as follows:
+#Open any web browser such as Firefox https://www.mozilla.org/en-US/firefox/new/,
+Safari https://www.apple.com/safari/, Brave https://brave.com/,
+Opera https://www.opera.com/, Edge https://www.microsoft.com/edge,
+Chrome/Chromium https://www.chromium.org/Home/ or other, and type default url as follows:
 Requests                                      Response
   localhost:3000/alien_abduction              "Welcome to homepage"
   localhost:3000/alien_abduction/foo          {“response”: “Hello”}
@@ -64,10 +68,11 @@ Requests                                      Response
 ##########################Methods: How this project was prepared###########################
 6) Manual Step: To modify and write code used Text-Editor such as Atom, Brackets,
 Bluefish, VS code or other.
-Here Atom was used, install package 'emmet' for web development shortcuts. Use Ctrl+Shit+P for
-Windows and Cmd+Shift+P for command pellet for many atom functions. Selecting a code chunk and
-pressing Ctrl + / for Windows and Cmd + / for Mac comments out the code. Same shortcuts apply
-for Linux/Ubuntu based on if Windows or Mac computer is being used.
+Here Atom was used, install package 'emmet' for web development shortcuts.
+Use Ctrl+Shit+P for Windows and Cmd+Shift+P for command pellet for many atom functions.
+Selecting a code chunk and pressing Ctrl + / for Windows and Cmd + / for Mac
+comments out the code. Same shortcuts apply for Linux/Ubuntu based on
+if Windows or Mac computer is being used.
 
 7) Manual Step: 'init npm' was used to turn current folder into npm js project, install
 express framework for app specific node.js functions and nodemon to reload server automatically

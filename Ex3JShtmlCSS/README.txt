@@ -17,64 +17,77 @@ The website is types in html, styled with css and graphs computed with javascrip
 ##########################Usage and Results###########################
 
 2) Manual Step: Open the 'index.html' file on any web browser such as
-Firefox, Safari, Brave, Edge, Chrome/Chromium or other.
+Firefox https://www.mozilla.org/en-US/firefox/new/, Safari https://www.apple.com/safari/,
+Brave https://brave.com/, Opera https://www.opera.com/, Edge https://www.microsoft.com/edge,
+Chrome/Chromium https://www.chromium.org/Home/ or other.
 
 ##########################Methods: How this project was prepared###########################
 3) Manual Step: To modify and write code used Text-Editor such as Atom, Brackets,
 Bluefish, VS code or other.
-Here Atom was used, install package 'emmet' for web development shortcuts. Use Ctrl+Shit+P for
-Windows and Cmd+Shift+P for command pellet for many atom functions. Selecting a code chunk and
-pressing Ctrl + / for Windows and Cmd + / for Mac comments out the code. Same shortcuts apply
-for Linux/Ubuntu based on if Windows or Mac computer is being used.
+Here Atom was used, install package 'emmet' for web development shortcuts. Use
+Ctrl+Shit+P for Windows and Cmd+Shift+P for command pellet for many atom functions.
+Selecting a code chunk and pressing Ctrl + / for Windows and Cmd + / for Mac
+comments out the code. Same shortcuts apply for Linux/Ubuntu based on if Windows
+or Mac computer is being used.
 
 4) Manual Step: The html, css and JS files such as index.html, script.js
-and styles.css files were opened with text editor, here Atom to write codes. Simultaneously,
-the html file was opened on browser to see the effects of changes on net display of webpage.
+and styles.css files were opened with text editor, here Atom to write codes.
+Simultaneously, the html file was opened on browser to see the effects of changes
+on net display of webpage.
 (F5 or Crtl+R for Windows and Cmd+R for Mac are keyboard shortcut for browser refresh page).
 
 5) Manual Step: In addition to step 4 above its useful to use https://codepen.io/pen/
-(no login needed) to do quick trial and error viewing of effects of html, css and js
-changes on net display of webpage.
+(no login needed) to do quick trial and error viewing of effects of html, css
+and js changes on net display of webpage.
 
 6) Manual Step: Copyright free images can be obtained from sites such as https://www.pexels.com/,
 https://www.gettyimages.com/photos/, https://unsplash.com/,
-https://www.blogtyrant.com/how-to-find-imagess-for-your-blog/ and find more by searching on internet
-with phrases such as, Search: 'photos free no copyright' and Search: 'photos free no copyright website'.
-Another way is to search on internet using search engine's image tab, selecting/filtering to view only
-'free no copyright can be used commercially'. Any search engine such as, https://www.ecosia.org/,
-https://www.usearch.com/, https://search.brave.com/, https://www.startpage.com/sp/search, https://duckduckgo.com/,
-https://search.yahoo.com/, https://www.bing.com/, https://www.google.com/ and others can be used.
-
-7) Manual Step: Color palettes can be obtained for webpage coloring in styles.css from sites such as
-https://coolors.co/palettes/trending, https://htmlcolorcodes.com/, https://www.color-hex.com/color-palettes/
-and find more by searching on internet with phrases such as, Search: 'color palettes schemes' and
-Search: 'color palettes web development'. Any search engine such as, https://www.ecosia.org/,
-https://www.usearch.com/, https://search.brave.com/, https://www.startpage.com/sp/search, https://duckduckgo.com/,
-https://search.yahoo.com/, https://www.bing.com/, https://www.google.com/ and others can be used.
-
-8) Manual Step: To display special symbols such as emoticons, html entity codes can be used. This can be
-found in sites such as https://www.w3schools.com/html/html_symbols.asp, https://html-css-js.com/html/character-codes/icons/,
-http://www.applytools.com/html-symbols.html and https://sites.psu.edu/symbolcodes/codehtml/.
-Find more by searching on internet with phrases such as, Search: 'html symbol' and 'html symbols codes'.
-Any search engine such as, https://www.ecosia.org/, https://www.usearch.com/, https://search.brave.com/,
-https://www.startpage.com/sp/search, https://duckduckgo.com/, https://search.yahoo.com/, https://www.bing.com/,
+https://www.blogtyrant.com/how-to-find-imagess-for-your-blog/ and find more by
+searching on internet with phrases such as, Search: 'photos free no copyright'
+and Search: 'photos free no copyright website'. Another way is to search on internet
+using search engine's image tab, selecting/filtering to view only 'free no copyright can
+be used commercially'. Any search engine such as, https://www.ecosia.org/,
+https://www.usearch.com/, https://search.brave.com/, https://www.startpage.com/sp/search,
+https://duckduckgo.com/, https://search.yahoo.com/, https://www.bing.com/,
 https://www.google.com/ and others can be used.
 
-9) Manual Step: Resources to research css styles, html codes/themes/templates and js codes can be found by searching
-on internet with phrases such as, Search: 'website templates' and Search: 'website templates responsive'.
-Any search engine such as, https://www.ecosia.org/, https://www.usearch.com/, https://search.brave.com/,
-https://www.startpage.com/sp/search, https://duckduckgo.com/, https://search.yahoo.com/, https://www.bing.com/,
+7) Manual Step: Color palettes can be obtained for webpage coloring in styles.css
+from sites such as https://coolors.co/palettes/trending, https://htmlcolorcodes.com/,
+https://www.color-hex.com/color-palettes/ and find more by searching on internet with
+phrases such as, Search: 'color palettes schemes' and Search: 'color palettes web development'.
+Any search engine such as, https://www.ecosia.org/, https://www.usearch.com/,
+https://search.brave.com/, https://www.startpage.com/sp/search, https://duckduckgo.com/,
+https://search.yahoo.com/, https://www.bing.com/, https://www.google.com/ and others can be used.
+
+8) Manual Step: To display special symbols such as emoticons, html entity codes can be used.
+This can be found in sites such as https://www.w3schools.com/html/html_symbols.asp,
+https://html-css-js.com/html/character-codes/icons/, http://www.applytools.com/html-symbols.html
+and https://sites.psu.edu/symbolcodes/codehtml/. Find more by searching on internet with phrases
+such as, Search: 'html symbol' and 'html symbols codes'. Any search engine such as, https://www.ecosia.org/,
+https://www.usearch.com/, https://search.brave.com/, https://www.startpage.com/sp/search,
+https://duckduckgo.com/, https://search.yahoo.com/, https://www.bing.com/,
 https://www.google.com/ and others can be used.
-Download website themes from above to view offline using site download button or using browser do
-File > Save As > Complete Webpage and open on text editor such as Atom. To view website css styles, html codes/themes/templates
-online, on browser such as Firefox, Safari, Brave, Edge, Chrome/Chromium or other
-click 'Developer Tools' > 'Elements', 'Styles', 'Computed', 'Network' for viewing (any website on
-internet can infact be viewed in this manner). WordPress Themes can be viewed from WordPress.com
-or server provider, on the WordPress.org content management system (CMS) and under cPanel > Themes online,
-while for offline viewing zip/compress the particular theme folder and download from cPanel.
+
+9) Manual Step: Resources to research css styles, html codes/themes/templates
+and js codes can be found by searching on internet with phrases such as,
+Search: 'website templates' and Search: 'website templates responsive'. Any search
+engine such as, https://www.ecosia.org/, https://www.usearch.com/, https://search.brave.com/,
+https://www.startpage.com/sp/search, https://duckduckgo.com/, https://search.yahoo.com/,
+https://www.bing.com/, https://www.google.com/ and others can be used.
+Download website themes from above to view offline using site download button or
+using browser do File > Save As > Complete Webpage and open on text editor such as Atom.
+To view website css styles, html codes/themes/templates online, on browser such as
+Firefox https://www.mozilla.org/en-US/firefox/new/, Safari https://www.apple.com/safari/,
+Brave https://brave.com/, Opera https://www.opera.com/, Edge https://www.microsoft.com/edge,
+Chrome/Chromium https://www.chromium.org/Home/ or other,
+click 'Developer Tools' > 'Elements', 'Styles', 'Computed', 'Network' for
+viewing (any website on internet can infact be viewed in this manner).
+WordPress Themes can be viewed from WordPress.com or server provider, on the WordPress.org
+content management system (CMS) and under cPanel > Themes online, while for offline
+viewing zip/compress the particular theme folder and download from cPanel.
 Pay attention to and respect any copyright restrictions on these websites about usage.
-The websites, https://developer.mozilla.org and https://stackoverflow.com/ have most comprehensive information
-about html, css, js and more.
+The websites, https://developer.mozilla.org and https://stackoverflow.com/ have most
+comprehensive information about html, css, js and more.
 
 ########################## Acknowledgment ###########################
 1) 5 JavaScript Concepts You HAVE TO KNOW by James Q Quick
