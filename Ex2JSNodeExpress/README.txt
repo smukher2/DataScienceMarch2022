@@ -64,6 +64,10 @@ Requests                                      Response
 ##########################Methods: How this project was prepared###########################
 6) Manual Step: To modify and write code used Text-Editor such as Atom, Brackets,
 Bluefish, VS code or other.
+Here Atom was used, install package 'emmet' for web development shortcuts. Use Ctrl+Shit+P for
+Windows and Cmd+Shift+P for command pellet for many atom functions. Selecting a code chunk and
+pressing Ctrl + / for Windows and Cmd + / for Mac comments out the code. Same shortcuts apply
+for Linux/Ubuntu based on if Windows or Mac computer is being used.
 
 7) Manual Step: 'init npm' was used to turn current folder into npm js project, install
 express framework for app specific node.js functions and nodemon to reload server automatically
@@ -113,5 +117,4 @@ https://youtu.be/d-PPOS-VsC8
 https://youtu.be/pTFZFxd4hOI
 12) Intro to Docker - A Tool Every Developer Should Know by IAmTimCorey
 https://youtu.be/WcQ3-M4-jik
-
 ##########################Thank You####################################
