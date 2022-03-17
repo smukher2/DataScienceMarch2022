@@ -9,7 +9,7 @@ but js not strict enough to complain about it. Its good practice to have ;
 makes code more organized and clean. Python is another
 language does not need ; but Java and PHP are languages that do need ; */
 
-//Violin Plot, plot2
+//Violin Plot with Bar plot and Scatter plot insert, plot3
 function draw() {
   try {
     // input data
@@ -32,7 +32,11 @@ function draw() {
         7.545948302,9.060752885,17.62158783,16.54776815,11.30390747,7.366305516,
         10.01577143,13.69486701,7.67210736,11.67596682],
       name: 'genotypeA',
-      type: 'violin'
+      type: 'violin',
+      box: {
+        visible: true
+      },
+      points: 'all'
     };
     var genotypeB = {
       y: [19.87343504,16.11855158,13.61853111,18.6959824,15.41635908,14.45394107,
@@ -53,7 +57,11 @@ function draw() {
         23.85088474,32.81301561,20.21761952,18.98396566,16.2804421,30.833732,
         24.86050217,19.12356591,24.37066839,23.72179655],
       name: 'genotypeB',
-      type: 'violin'
+      type: 'violin',
+      box: {
+        visible: true
+      },
+      points: 'all'
     };
     var genotypeC = {
       y: [16.89483405,9.891778858,27.62513507,20.15556881,18.60949543,19.99376042,
@@ -74,7 +82,11 @@ function draw() {
         7.241742609,9.642759542,11.36545658,13.30387876,13.14070723,15.55518832,
         19.98321107,17.86867358,25.17154859,5.813733821],
       name: 'genotypeC',
-      type: 'violin'
+      type: 'violin',
+      box: {
+        visible: true
+      },
+      points: 'all'
     };
     //combine series data
     var data = [genotypeA, genotypeB, genotypeC];
@@ -87,7 +99,7 @@ function draw() {
       };
 
     //display using plotly
-    Plotly.newPlot('plot2', data, layout);
+    Plotly.newPlot('plot3', data, layout);
   }
   catch (err) {
     console.error(err);
