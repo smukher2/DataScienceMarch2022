@@ -62,7 +62,12 @@ html, body {
   text-size-adjust: 100%;
 }
 
+.divC {
+  display:flex;
+}
+
 .flex1LC {
+  padding: 50px 40px;
   width: 57.85%;
   margin-right: 1.65%;
 }
@@ -75,6 +80,16 @@ html, body {
 .imageC {
   max-width: 100%;
   height: auto;
+}
+
+.hrC {
+  height:5px;
+  background-color:#2A521D;
+}
+
+#id {
+  height: auto;
+  weight: 100%;
 }
 
 /*header and footer styles*/
