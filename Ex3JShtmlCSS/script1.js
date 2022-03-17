@@ -12,7 +12,7 @@ language does not need ; but Java and PHP are languages that do need ; */
 //alert saying this website does not save visitor information
 alert("This website does not store visitor information. Please click 'OK' to continue.");
 
-//ploting code goes below
+//Bar Plot, Plot 1
 function draw() {
   try {
     // input data
@@ -90,7 +90,7 @@ function draw() {
       };
 
     //display using plotly
-    Plotly.newPlot('plotcombined', data, layout);
+    Plotly.newPlot('plot1', data, layout);
   }
   catch (err) {
     console.error(err);
