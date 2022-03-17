@@ -67,42 +67,37 @@ var y_genotypeC = [16.89483405,9.891778858,27.62513507,20.15556881,18.60949543,1
   7.241742609,9.642759542,11.36545658,13.30387876,13.14070723,15.55518832,
   19.98321107,17.86867358,25.17154859,5.813733821];
 
-//Bar Plot, Plot 1
-function draw() {
-  try {
-    // input data
-    var genotypeA = {
-      y: y_genotypeA,
-      name: 'genotypeA',
-      type: 'box'
-    };
-    var genotypeB = {
-      y: y_genotypeB,
-      name: 'genotypeB',
-      type: 'box'
-    };
-    var genotypeC = {
-      y: y_genotypeC,
-      name: 'genotypeC',
-      type: 'box'
-    };
-    //combine series data
-    var data = [genotypeA, genotypeB, genotypeC];
-
-    //add general plot labels
-    var layout = {
-      yaxis: {
-        title: 'plant height',
-        zeroline: true}
+  //Violin Plot with Bar plot and Scatter plot insert, plotC
+  function draw() {
+    try {
+      // input data
+      var genotypeC = {
+        y: y_genotypeC,
+        name: 'genotypeC',
+        type: 'violin',
+        box: {
+          visible: true
+        },
+        points: 'all'
       };
 
-    //display using plotly
-    Plotly.newPlot('plot1', data, layout);
+      //combine series data
+      var data = [genotypeC];
+
+      //add general plot labels
+      var layout = {
+        yaxis: {
+          title: 'plant height',
+          zeroline: true}
+        };
+
+      //display using plotly
+      Plotly.newPlot('plotC', data, layout);
+    }
+    catch (err) {
+      console.error(err);
+      alert(err);
+    }
   }
-  catch (err) {
-    console.error(err);
-    alert(err);
-  }
-}
-//run function
-draw();
+  //run function
+  draw();
