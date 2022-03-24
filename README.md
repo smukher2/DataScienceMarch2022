@@ -14,5 +14,6 @@ file for each Exercise(Ex).
 * Ex3JShtmlCSS: Html, CSS and JS Data Plots
 * Ex4SQL: SQL database (coming up soon)
 * Ex5JSMongodb: Mongodb database (coming up soon)
+* Ex6JSToReadApp: JS List App (coming up soon)
 
 ## Thank You
