@@ -1,7 +1,8 @@
 #JavaScript ToReadApp: A modified TodoApp exercise
-An app will be created that retries top 3 review articles from top tier scientific
-publication groups, namely Nature, Cell and Frontiers, for user's scientific query terms.
-The articles thus retrieved will be added in the ToReadApp as a 'todo' item.
+An app will be created that creates from user's query (search) terms a query link of
+review articles from top tier scientific publication groups, namely Nature, Cell and Frontiers.
+The user can then review the query link to select articles they want to read later
+by adding them to the ToReadApp as a 'todo' item.
 Example:
 query 'variant interaction combined effect'
 query link from which 3 articles each will be retrieved and added to todo list
